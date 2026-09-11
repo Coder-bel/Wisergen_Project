@@ -1,0 +1,12 @@
+# Force HTTPS once live (safe to keep; only redirects when not already https)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# Block access to any dotfiles
+<FilesMatch "^\.">
+  Require all denied
+</FilesMatch>

@@ -1,0 +1,84 @@
+.
+├── migrate.sql
+├── portfolio_news.sql
+├── private
+│   ├── config.php
+│   ├── db.php
+│   ├── project-zips
+│   │   └── 7883c8705a62cf3fd5c084775d3605b5.zip
+│   └── upload.php
+├── public
+│   ├── account.php
+│   ├── api
+│   │   ├── chat.php
+│   │   ├── download.php
+│   │   ├── news.php
+│   │   ├── products.php
+│   │   ├── projects.php
+│   │   ├── settings.php
+│   │   └── verify-payment.php
+│   ├── index.php
+│   ├── login.php
+│   ├── logout.php
+│   ├── manage-news.php
+│   ├── manage-projects.php
+│   └── uploads
+│       ├── 020c35cf3def8555cb4ad971c7153cdb.jpg
+│       ├── 068267b7a915f25f228864f70d57d036.jpg
+│       ├── 0a8687382730d62ed9ad07c654798828.jpg
+│       ├── 124dd3607f7aaaa154f375c0b213a97a.png
+│       ├── 12842bb258c46e770ad77c7500dd580b.png
+│       ├── 13eed03b2b1d39404906e2f4e9a58a65.jpg
+│       ├── 1437122bcb4f060dc213a54679dd5db9.jpg
+│       ├── 15b2cf17c8112395cd5eeee65ef820ea.png
+│       ├── 16109157941d9e5a85cee81951581e04.jpg
+│       ├── 1e5bb9f3bae7de961448326baa8ffb0d.jpg
+│       ├── 1ffbc920b76c13d906adf6ba5488720b.jpg
+│       ├── 22f6db82bca9ddeb90d88fbb79569253.png
+│       ├── 2974f4a082ebeca3ac87d47088471e5d.jpg
+│       ├── 2980d7b34519604787c6e99de965157c.jpg
+│       ├── 2f579b52903ae6e85e4c457fcb9a487c.jpg
+│       ├── 307c3168954254b5f05504111d13031b.jpg
+│       ├── 33a030a2ee16afb827209449074fa93c.jpg
+│       ├── 3523abe565c359b290344b57c4e7d382.jpg
+│       ├── 4486a0c1faadfc12915eda6211bc7018.jpg
+│       ├── 559be5c283714af78238244b6a874a9f.jpg
+│       ├── 5c2ba7f455874e3674ce246b68d5de98.jpg
+│       ├── 5cbf88eea1dba534417f8fec5c163e0d.png
+│       ├── 616285df2f34f40bc54b9bb97e3b5032.jpg
+│       ├── 680da4dbbe96563592120764c1dd0eee.jpg
+│       ├── 6b304f101239666453ea28d9d679a219.png
+│       ├── 7175e28966c1add852deaf2b6ade7c16.jpg
+│       ├── 7800c05ef5ceb6c42c76029b53f61651.jpg
+│       ├── 7fa4018c64b0a02eecb1dde8c5933688.jpg
+│       ├── 80a0fe8e21b589310453b8a1d211e490.png
+│       ├── 8c0caf4ea66e4cb24f1761347c58fa51.jpg
+│       ├── 93c2dd261b8e6f8893a5c656f773b993.jpg
+│       ├── 9538612975e03d1454fc3358972f1b07.jpg
+│       ├── 9902ced53013a5e27deac9facdb5e48c.jpg
+│       ├── 9d2185a3826b45aa29f1b94886e3eefb.jpg
+│       ├── 9ea83f5476fd16c149c025cb3ecb4579.png
+│       ├── a2c57ae60cc1e879881e14d4c113ec4d.png
+│       ├── a3ac78afe6805e73c89fe216ca91c6d7.jpg
+│       ├── b9a236ab18c2a2683803763976442bda.png
+│       ├── bb768d8c766b2d5541bf6459d849edb7.png
+│       ├── c07fb6cfb1378851a9a685e83b7b4938.jpg
+│       ├── c34025191956f23d97a9fdca9f081d07.jpg
+│       ├── cd1a45e3f148a9f4917eed95e8dfad6b.jpg
+│       ├── d21498fdcd53db66fe53e9ef7f5b31b6.jpg
+│       ├── d7cadd55158ce63441c4d0daf8f484a2.jpg
+│       ├── e2b5f9f79c1d1b7b19d953b79529607c.png
+│       ├── e505879e68afaa17cd4a04992d711786.png
+│       ├── edf380fbef1048cc0086b6786e1dbb7d.jpg
+│       ├── ee33929820941868ca1d7610486b5320.jpg
+│       ├── ee848801c5280da23d1f157a0f2f4a12.jpg
+│       ├── eef65916e8edeb7cf10a9e3e9d710cc0.png
+│       ├── f1b55ab0e1c985e2068f9f38c3542c4f.png
+│       ├── fc03175ec4794ac6b4398593d25a5b52.jpg
+│       ├── fc116ddc4b8d02075ad0750bcda4a641.jpg
+│       ├── fe9b460f086b0e05ce097ac5be326468.jpg
+│       ├── fea664cbc7d647ad2ea3ef4d765e77dc.jpg
+│       └── fee8782e4cd1738eb43628a4bfc391f2.jpg
+└── structure.txt
+
+6 directories, 76 files
