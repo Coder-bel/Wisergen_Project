@@ -25,6 +25,7 @@ Wisergen_admin-app/private/project-zips/
 Wisergen_admin-app/private/zips/
 Wisergen_admin-app/public/uploads/*
 !Wisergen_admin-app/public/uploads/.gitkeep
+!Wisergen_admin-app/public/uploads/.htaccess
 *.sql.gz
 
 # ============ Archives ============
